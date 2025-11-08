@@ -1,4 +1,7 @@
 # People Analytics Case Study — Employee Lifecycle Insights & Attrition Strategy
+<p align="center">
+  <img src="cover.png" width="100%" />
+</p>
 
 ![Banner](banner.png)
 
