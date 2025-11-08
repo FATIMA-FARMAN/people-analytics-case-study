@@ -3,8 +3,6 @@
   <img src="cover.png" width="100%" />
 </p>
 
-![Banner](banner.png)
-
 This project showcases a complete People Analytics workflow including 
 **SQL (BigQuery), Python, Dashboarding (Looker Studio), and Workforce Analytics**  
 with a consulting-style case study PDF.
